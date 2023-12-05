@@ -1,5 +1,6 @@
 {
   "sheet": "MJIProgress",
+  "defaultColumn": "Vision",
   "definitions": [
     {
       "name": "Vision"

@@ -2,6 +2,14 @@
   "sheet": "MJIBuilding",
   "definitions": [
     {
+      "index": 0,
+      "name": "RankRequired",
+      "converter": {
+        "type": "link",
+        "target": "MJIRank"
+      }
+    },
+    {
       "name": "sgb[0]",
       "index": 1,
       "converter": {

@@ -23,6 +23,14 @@
         "type": "link",
         "target": "EObjName"
       }
+    },
+    {
+      "index": 4,
+      "name": "ProgressRequired",
+      "converter": {
+        "type": "link",
+        "target": "MJIProgress"
+      }
     }
   ]
 }

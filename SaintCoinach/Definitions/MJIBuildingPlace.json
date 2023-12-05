@@ -16,6 +16,22 @@
         "type": "link",
         "target": "ExportedSG"
       }
+    },
+    {
+      "index": 3,
+      "name": "VillageDevRequired",
+      "converter": {
+        "type": "link",
+        "target": "MJIVillageDevelopment"
+      }
+    },
+    {
+      "index": 4,
+      "name": "X"
+    },
+    {
+      "index": 5,
+      "name": "Y"
     }
   ]
 }

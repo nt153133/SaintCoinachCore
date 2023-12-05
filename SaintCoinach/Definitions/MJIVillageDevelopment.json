@@ -1,5 +1,6 @@
 {
   "sheet": "MJIVillageDevelopment",
+  "defaultColumn": "ENPC",
   "definitions": [
     {
       "name": "ENPC",
@@ -23,6 +24,14 @@
         "type": "link",
         "target": "Behavior"
       }
+    },
+    {
+      "index": 13,
+      "name": "MaxWorkshops"
+    },
+    {
+      "index": 14,
+      "name": "MaxGranaries"
     }
   ]
 }
