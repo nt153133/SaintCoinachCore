@@ -1,6 +1,6 @@
 {
   "sheet": "MJIName",
-  "defaultColumn": "Name",
+  "defaultColumn": "Singular",
   "definitions": [
     {
       "name": "Singular"

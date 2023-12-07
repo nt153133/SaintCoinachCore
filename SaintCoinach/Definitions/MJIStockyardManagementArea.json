@@ -10,11 +10,15 @@
       }
     },
     {
+      "index": 1,
+      "name": "TableKey"
+    },
+    {
       "index": 2,
       "name": "Area",
       "converter": {
         "type": "link",
-        "target": "MJIText"
+        "target": "MJIName"
       }
     }
   ]
