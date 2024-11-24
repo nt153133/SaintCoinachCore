@@ -1,15 +1,14 @@
 {
-  "sheet": "CSBonusMission",
+  "sheet": "NotoriousMonsterTerritory",
   "definitions": [
     {
-      "index": 0,
       "type": "repeat",
-      "count": 2,
+      "count": 10,
       "definition": {
-        "name": "Content",
+        "name": "NotoriousMonsters",
         "converter": {
           "type": "link",
-          "target": "CSBonusContent"
+          "target": "NotoriousMonster"
         }
       }
     }
